@@ -1,0 +1,111 @@
+body{background-color: #ECF0F1;}
+
+
+main{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;}
+
+h1 img{border: #273746 solid 4px;
+       box-sizing: border-box;
+       margin-bottom: none;
+      height: 175px;
+       width: 100%;
+    padding: 0%;}
+
+.h1{text-align: center;
+    color: #ECF0F1;
+    border: 2px solic #ECF0F1;
+    width: 750px;
+    background-color: #17202A;
+    box-align: center;
+    margin-left: 300px;
+    text-transform: uppercase;}
+
+h2{color:#17202A;
+   text-shadow:2px 1px 2px rgb(4, 4, 44);
+   font-weight: bolder;}
+
+.div1{border: 2px solid #ECF0F1;
+    box-shadow: 2px 2px 5px #eef5f7;
+    text-shadow: 5px 5px 5px silver;
+    width: 700px;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 80px;}
+
+h2 a{color: #17202A;
+     background-color: #053d4d;
+     border-radius: 10px;
+     padding: auto;}
+
+h2 a:hover{color: rgb(4, 29, 51);
+           background-color: rgb(226, 229, 228);
+            border-radius: 10px;}
+
+footer{border: #17202A solid 2px;
+       background-color: #17202A;
+       font-size: .80em;
+       color: #D0D3D4;
+       font-style: italic;
+       text-align: center;
+       caption-side: bottom;
+       margin-top: 30px;
+       padding: 20px;}
+
+footer a{text-decoration: none;}
+footer a:link{color: #D0D3D4;}
+footer a:hover{color: whitesmoke;
+               text-shadow: 1px 1px 1px black;}
+
+.div{margin: 0;
+     display: block;
+     border-top: #273746 solid 2px;
+     border-bottom: #273746 solid 2px;
+    padding: 0;}
+
+.img{border: black 2px solid;}
+
+p{margin: 0;
+  padding: 0;}
+
+figcaption{font-size: 15px;
+            color: #17202A;
+            text-shadow: 1px 1px 2px black;
+            caption-side: bottom;
+            clear: both;
+            border: #ECF0F1 2px solid;
+            padding: 0;}
+
+.floatright{float: right;
+       margin: 70px;}
+
+.td{font-style: italic;
+    font-weight: bold;
+    font-size: 3rem;
+     color: #17202A;
+     text-shadow: black 2px 1px 1px}
+
+  a{text-decoration: none;}
+    
+nav a{letter-spacing: .2em;
+     font-size: 200%;
+     text-decoration: none;
+      text-transform: uppercase;
+      padding-left: 57px;
+      padding-right: 57px;}
+
+nav a:link{color: #000000;}
+nav a:visited{color: #17202A;}
+nav a:hover{color: #D0D3D4;
+            background-color: #17202A;
+            box-shadow: 2px 3px 1.5px #17202A;}
+nav a:active{color: #273746;}
+form{border:#D0D3D4 3px solid;
+     display:flexbox;
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 65%;}
+#mySubmit{margin-left: 12em;
+          background-color: #273746;
+          color: #ECF0F1;
+          border: #273746 1px solid;
+          border-radius: 12px;}
